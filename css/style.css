@@ -164,6 +164,9 @@ ul.address {
     border-color: #00a78e transparent transparent transparent;
 	
 }
+.tech-tile{
+	margin-bottom: 2em;
+}
 .header-right h6 {
        font-size: 1em;
     color: #C7C7C7;
@@ -564,9 +567,7 @@ span.border.one:after {
 .wthree_about_right_grid_right {
     padding-right: 0;
 }
-.wthree_about_right_grid:nth-child(2) {
-    margin-bottom: 2em;
-}
+
 /* Rectangle In */
 .hvr-rectangle-in {
   display: inline-block;
@@ -1085,7 +1086,7 @@ div#portfolioModal1,div#portfolioModal2,div#portfolioModal3,div#portfolioModal4,
     top: 25px;
     right: 25px;
    width: 45px;
-    height: 45px
+    height: 45px;
     background-color: transparent;
     cursor: pointer;
     z-index: 1;
