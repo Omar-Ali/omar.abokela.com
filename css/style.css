@@ -241,7 +241,7 @@ ul.social-icons{
 .social-icons li a.in{
       background-position: 3px -62px;
 }
-.social-icons li a.dott {
+.social-icons li a.git {
 background-position: 3px -94px;
 }
 .social-icons li a:hover::before {
