@@ -1694,7 +1694,7 @@ span.border.two:after {
 		margin-top: 2em;
 	}
 	.wthree_about_right_grid:nth-child(2) {
-		margin-bottom: 1em;
+		margin-bottom: 2em;
 	}
 }
 @media(max-width:600px){
