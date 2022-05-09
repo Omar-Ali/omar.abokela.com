@@ -248,6 +248,11 @@ background-position: 3px -94px;
     border-color: #00a78e;
 	    box-shadow: 0 8px 17px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
 }
+.edu-image{
+	width: 90%;
+	display: flex;
+	margin: auto;
+}
 /*-- wellcome-note --*/
 .welcome-note{
 	margin:3em 0;
