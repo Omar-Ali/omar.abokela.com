@@ -253,6 +253,14 @@ background-position: 3px -94px;
 	display: flex;
 	margin: auto;
 }
+.edu-text{
+	width: 100%;
+    display: flex;
+    margin: auto;
+    text-align: center;
+	font-weight: bold;
+	color: gray;
+}
 /*-- wellcome-note --*/
 .welcome-note{
 	margin:3em 0;
@@ -953,10 +961,6 @@ ul.year li:nth-child(5){
 .education-row {
 	display: flex;
 	justify-content: center;
-}
-.fbolder{
-	font-weight: bolder;
-	color: gray;
 }
 .card {
   border: 0;
