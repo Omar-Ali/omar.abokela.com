@@ -1400,6 +1400,9 @@ span.border.two:after {
 	}
 }
 @media(max-width:991px){
+	.news-text {
+		width: -webkit-fill-available;
+	}
 	.navigation-right ul li a {
        font-size: 0.9em;
 	}
